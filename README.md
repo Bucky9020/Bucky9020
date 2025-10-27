@@ -7,7 +7,8 @@ I'm a developer and security enthusiast based in Egypt.
 - 👯 I’m looking to collaborate on **open-source cybersecurity projects and educational automation tools**.
 - 🤔 I’m looking for help with **building scalable red-team tools and improving automation pipelines**.
 - 💬 Ask me about **Linux, Ethical Hacking, Python scripting, or system automation**.
-- 📫 How to reach me: **bodye313@gmail.com**
+- 📫 How to reach me: **bucky90201999@gmail.com
+**
 - ⚡ Fun fact: **I break systems not to destroy them — but to understand, rebuild, and evolve them.**
 
 ---
